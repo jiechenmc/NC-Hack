@@ -4,9 +4,8 @@ whereItSnows is a tool that help you find places that are snowing near your zip 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies.
 
-Make sure you have Python and pip installed.
 
 ```bash
 pip3 install -r requirements.txt
