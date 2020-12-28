@@ -1,2 +1,20 @@
-# NC-Hack
-My submission for NC Hack https://nchack.org/challenge/5fe0d112ad5b9f474c235d31
+# whereItSnows
+
+whereItSnows is a tool that help you find places that are snowing near your zip code.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+Make sure you have Python and pip installed.
+
+```bash
+pip3 install -r requirements.txt
+```
+
+## Usage
+
+Input any zip code in the search bar and it will return a map with markers of areas that are snowing.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
