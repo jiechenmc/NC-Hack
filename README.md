@@ -13,8 +13,8 @@ whereItSnows is a tool that help you find places that are snowing near your zip 
 ###### Create a .env file in the root directory with the following content
 
 ```.env
-weather_api_key={your_openweathermap_api_key}
-map_api_key={your_googlemaps_api_key}
+weather_api_key=your openweathermap api key
+map_api_key=your googlemaps api key
 ```
 
 ###### Installing and activating the environment
