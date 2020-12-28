@@ -1,0 +1,23 @@
+{% extends "base.jinja" %}
+{% block content %} 
+<header>
+  <h1> Find out where it snows! </h1>
+</header>
+<div id="div-search">
+<form action="#" method="POST">
+  <label for="zip_code">Zip Code:</label>
+  <input
+    id="zip_code"
+    name="zip_code"
+    type="text"
+    inputmode="email"
+    pattern="[0-9]{5}"
+    title="5 digit US zip code"
+    required
+  />
+  <input id="submit_button" name="submit_button" type="submit" value="Search" />
+  <p> It takes a bit longer to load for places with a lot of zip codes nearby.</p>
+  <a href="https://www.freepik.com/vectors/background">Background vector created by s.salvador - www.freepik.com</a>
+</form>
+</div>
+{% endblock content %}

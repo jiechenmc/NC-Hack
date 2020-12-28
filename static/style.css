@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-image: url("snow.jpg");
+}
+
+header {
+  font-family: "Redressed", cursive;
+  font-size: 50px;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+}
+
+p,
+form,
+#submit_button {
+  font-size: 18px;
+}

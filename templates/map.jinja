@@ -1,0 +1,7 @@
+{% extends "base.jinja" %}
+{% block content %}
+    <img src={{ map_link }} alt="Map Image" />
+    <form action="/forward-home">
+        <button name="forwardBtn" type="submit">Return Home</button>
+    </form>
+{% endblock content %}
