@@ -34,7 +34,7 @@ python app.py
 
 ## Usage
 
-Input any zip code in the search bar and it will return a map with markers of areas that are snowing.
+Input any US zip code in the search bar and it will return a map with markers of areas that are snowing.
 
 ## License
 
